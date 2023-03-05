@@ -1,3 +1,5 @@
+export * from './classes/controller';
+
 export * from './errors/http.error';
 
 export * from './handlers/error.handler';
